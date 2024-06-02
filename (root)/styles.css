@@ -71,9 +71,14 @@ body {
     width: 160px;
     height: 70px;
     margin-left: -30px;
-  padding-left: 40px;
-    
+    padding-left: 40px;
+}
 
+.main-content-container {
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    background-color: whiteM
 }
 
 

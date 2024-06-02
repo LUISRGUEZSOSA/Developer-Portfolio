@@ -24,15 +24,19 @@ body {
 }
 
 .main-topbar {
-    height: 95%;
-    width: 95%;
+    height: 40%;
+    width: 100%;
     position: absolute;
     background-color: #cf1616; 
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
 }
 
 .main.photo {
     width: 200px; 
     height: 200px;
+    display: flex;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
@@ -45,10 +49,35 @@ body {
     width: 100%; 
     height: 100%; 
     object-fit: cover;
-    border-radius: 50%;
     object-position: center top;
     top: -10px;
 }
+
+.main.social {
+    width: 400px;
+    height: 100px;
+    background-color: #04d512; 
+    position: relative;
+    margin-top: 20px;
+    margin-right: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+   
+}
+
+.icon {
+    width: 160px;
+    height: 70px;
+    margin-left: -30px;
+  padding-left: 40px;
+    
+
+}
+
+
+
 
 
 

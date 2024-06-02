@@ -21,6 +21,7 @@ I'm open to collaboration opportunities and new adventures in the world of softw
 
 - **Email**: luisguezsosa@gmail.com
 - **LinkedIn**: [Luis Alberto Rodríguez Sosa](www.linkedin.com/in/luisrodriguezsosa)
---
+  
+---
 Looking forward to potentially collaborating with you on exciting future projects! 😊🚀
 
